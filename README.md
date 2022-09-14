@@ -1,6 +1,6 @@
-![logo](https://github.com/Vishwa-AI-Expert-06/Vishwa-AI-Expert-06/blob/master/vishwanath%20t.mp4)
+<h1 align="center">Hi 👋, I'm </h1>
 
-<h1 align="center">Hi 👋, I'm Vishwanath T</h1>
+<img src="https://github.com/Vishwa-AI-Expert-06/Vishwa-AI-Expert-06/blob/b0234c3bf8c864dd04ca0595ab7f6a3d4c57233e/Screenshot%20(51).png" alt="logo" align="center">
 <h3 align="center">A passionate Software Developer ( Full Stack) from India</h3>
 
 <img align="right" alt="coding" width=400 height=300 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
